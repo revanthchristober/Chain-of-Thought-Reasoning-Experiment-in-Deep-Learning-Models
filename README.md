@@ -10,8 +10,8 @@ Chain-of-Thought (CoT) reasoning is an approach to enhance the interpretability 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/revanthchristober/Chain-of-Thought-Reasoning.git
-   cd Chain-of-Thought-Reasoning
+   git clone https://github.com/revanthchristober/Chain-of-Thought-Reasoning-Experiment-in-Deep-Learning-Models.git
+   cd Chain-of-Thought-Reasoning-Experiment-in-Deep-Learning-Models
    ```
 
 2. **Create and activate a virtual environment:**
@@ -40,7 +40,6 @@ Open the `experiments.ipynb` notebook in Jupyter and run all cells to execute th
 ```bash
 jupyter notebook notebooks/experiments.ipynb
 ```
-
 This notebook will load the data, train the model, evaluate it, and save the results in the `results` directory.
 
 ## **Results**
