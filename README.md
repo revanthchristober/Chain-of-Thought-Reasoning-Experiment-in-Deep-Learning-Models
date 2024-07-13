@@ -10,7 +10,7 @@ Chain-of-Thought (CoT) reasoning is an approach to enhance the interpretability 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Chain-of-Thought-Reasoning.git
+   git clone https://github.com/revanthchristober/Chain-of-Thought-Reasoning.git
    cd Chain-of-Thought-Reasoning
    ```
 
